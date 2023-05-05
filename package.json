@@ -1,0 +1,16 @@
+{
+  "name": "obsidian-scripts",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && vite build && ./cjs-to-js.sh"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.3.2"
+  },
+  "dependencies": {
+    "chrono-node": "^2.6.3"
+  }
+}
