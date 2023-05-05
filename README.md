@@ -1,6 +1,6 @@
 # Obsidian Scripts
 
-A collection of custom scripts for my [Obsidian](https://obsidian.md) vault, used by the [Templater](https://silentvoid13.github.io/Templater) plugin
+A collection of custom scripts for my [Obsidian](https://obsidian.md) vault, used by the [Templater](https://silentvoid13.github.io/Templater) plugin.
 
 ## Available Functions
 
